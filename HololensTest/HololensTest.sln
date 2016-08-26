@@ -1,18 +1,14 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{DDCF945A-6475-C3F9-4D11-AAD5FF175FDC}") = "HololensTest", "Assembly-CSharp.csproj", "{2DB1474F-E75C-019D-2FB7-453C6D34E5A6}"
-EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2DB1474F-E75C-019D-2FB7-453C6D34E5A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2DB1474F-E75C-019D-2FB7-453C6D34E5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2DB1474F-E75C-019D-2FB7-453C6D34E5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2DB1474F-E75C-019D-2FB7-453C6D34E5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
